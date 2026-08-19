@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gururaj Sudhindra</h1>
-<h3 align="center">Principal Technical Support Engineer @ Oracle | OCI • SPARC/Unix • Cloud DevOps | Bengaluru, India</h3>
+<h3 align="center">20+ Years in Enterprise Infra & Cloud Support | Open to my Next Role | Currently leveling up in Full Stack (FSOPEN, boot.dev)</h3>
 
 <p align="center">
 सत्यं परं धीमहि — Let's meditate upon the Supreme Truth.
