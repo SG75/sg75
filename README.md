@@ -69,13 +69,7 @@ _Full experience details available on [LinkedIn](https://www.linkedin.com/in/gur
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SG75&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SG75&layout=compact" />
-  [![SG75's GitHub stats](https://github-stats-extended.vercel.app/api?username=sg75)](https://github.com/stats-organization/github-stats-extended)
-</p>
-
----
+## [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SG75&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=SG75&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true)
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/SG75/count.svg" />
