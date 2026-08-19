@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gururaj Sudhindra</h1>
-<h3 align="center">Principal Technical Support Engineer @ Oracle | OCI • SPARC/Unix • Cloud DevOps | Bengaluru, India</h3>
+<h3 align="center">20+ Years in Enterprise Infra & Cloud Support | Open to my Next Role | Currently leveling up in Full Stack (FSOPEN, boot.dev)</h3>
 
 <p align="center">
 सत्यं परं धीमहि — Let's meditate upon the Supreme Truth.
@@ -20,7 +20,6 @@
 - 🤖 Building automation with **Python, Bash, and Selenium** to streamline enterprise support workflows
 - 🎓 Certified: OCI Architect Associate, RHCSA, ITIL v3, Cloud DevOps Engineer (Udacity), OCI AI Foundations
 - 🌱 Currently learning Full Stack Development through **Full Stack Open (FSOPEN)** and **boot.dev**, alongside Frontend Mentor and hands-on Kubernetes projects
-- 🚀 Career highlight: supported mission-critical infrastructure for clients including ISRO Satellite Centre, National Aerospace Laboratories, and Liquid Propulsion Systems Centre
 
 ---
 
@@ -41,15 +40,15 @@
 
 ### 🏆 Experience Snapshot
 
-| Role | Company | Years |
-|---|---|---|
-| Principal Technical Support Engineer | Oracle India Limited | 2020 – 2025 |
-| Senior Technical Support Engineer | Oracle India Limited | 2011 – 2020 |
-| Senior Technical Support Engineer | Sun Microsystems | 2010 – 2011 |
-| Technical Consultant III | Hewlett-Packard India Limited | 2005 – 2010 |
-| Engineer – Projects | CMC Limited | 1997 – 2005 |
+| Role                                 | Company                       | Years       |
+| ------------------------------------ | ----------------------------- | ----------- |
+| Principal Technical Support Engineer | Oracle India Limited          | 2020 – 2025 |
+| Senior Technical Support Engineer    | Oracle India Limited          | 2011 – 2020 |
+| Senior Technical Support Engineer    | Sun Microsystems              | 2010 – 2011 |
+| Technical Consultant III             | Hewlett-Packard India Limited | 2005 – 2010 |
+| Engineer – Projects                  | CMC Limited                   | 1997 – 2005 |
 
-*Full experience details available on [LinkedIn](https://www.linkedin.com/in/gururajsudhindra/).*
+_Full experience details available on [LinkedIn](https://www.linkedin.com/in/gururajsudhindra/)._
 
 ---
 
@@ -68,14 +67,14 @@
 
 ### 📌 Featured Projects
 
-| Project | Description |
-|---|---|
-| [colourGame](https://github.com/SG75/colourGame) | A colour-guessing game built while learning JavaScript |
-| [deploy-app-on-minikube](https://github.com/SG75/deploy-app-on-minikube) | Deploying an app to a local Kubernetes cluster via Minikube |
-| [FrontendMentor](https://github.com/SG75/FrontendMentor) | Solutions to frontendmentor.io challenges |
-| [fun-javascript-projects](https://github.com/SG75/fun-javascript-projects) | A collection of small, fun JS projects |
-| [odin-projects](https://github.com/SG75/odin-projects) | Projects built while working through The Odin Project curriculum |
-| [Udacity-Cloud-DevOps-Engineer](https://github.com/SG75/Udacity-Cloud-DevOps-Engineer) | Projects from Udacity's Cloud DevOps Engineer Nanodegree |
+| Project                                                                                | Description                                                      |
+| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [colourGame](https://github.com/SG75/colourGame)                                       | A colour-guessing game built while learning JavaScript           |
+| [deploy-app-on-minikube](https://github.com/SG75/deploy-app-on-minikube)               | Deploying an app to a local Kubernetes cluster via Minikube      |
+| [FrontendMentor](https://github.com/SG75/FrontendMentor)                               | Solutions to frontendmentor.io challenges                        |
+| [fun-javascript-projects](https://github.com/SG75/fun-javascript-projects)             | A collection of small, fun JS projects                           |
+| [odin-projects](https://github.com/SG75/odin-projects)                                 | Projects built while working through The Odin Project curriculum |
+| [Udacity-Cloud-DevOps-Engineer](https://github.com/SG75/Udacity-Cloud-DevOps-Engineer) | Projects from Udacity's Cloud DevOps Engineer Nanodegree         |
 
 ---
 
