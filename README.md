@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gururaj Sudhindra</h1>
-<h3 align="center">20+ Years in Enterprise Infra & Cloud Support | Open to my Next Role | Currently leveling up in Full Stack (FSOPEN, boot.dev)</h3>
+<h3 align="center">Principal Technical Support Engineer @ Oracle | OCI • SPARC/Unix • Cloud DevOps | Bengaluru, India</h3>
 
 <p align="center">
 सत्यं परं धीमहि — Let's meditate upon the Supreme Truth.
@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -60,7 +62,7 @@ _Full experience details available on [LinkedIn](https://www.linkedin.com/in/gur
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SG75&theme=default" />
+  <img src="https://streak-stats.demolab.com/?user=SG75&theme=default" />
 </p>
 
 ---
