@@ -54,19 +54,6 @@ _Full experience details available on [LinkedIn](https://www.linkedin.com/in/gur
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SG75&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SG75&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SG75&theme=default" />
-</p>
-
----
-
 ### 📌 Featured Projects
 
 | Project                                                                                | Description                                                      |
