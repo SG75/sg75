@@ -72,6 +72,7 @@ _Full experience details available on [LinkedIn](https://www.linkedin.com/in/gur
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SG75&show_icons=true&theme=default" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SG75&layout=compact" />
+  [![SG75's GitHub stats](https://github-stats-extended.vercel.app/api?username=sg75)](https://github.com/stats-organization/github-stats-extended)
 </p>
 
 ---
