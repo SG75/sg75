@@ -71,6 +71,4 @@ _Full experience details available on [LinkedIn](https://www.linkedin.com/in/gur
 
 ## [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SG75&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=SG75&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true)
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/SG75/count.svg" />
-</p>
+
